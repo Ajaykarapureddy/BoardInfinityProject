@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "flowboard-b0f9e",
+    "flowboard": "flowboard-b0f9e-86805",
+    "kanban-prod": "flowboard-b0f9e-86805"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
